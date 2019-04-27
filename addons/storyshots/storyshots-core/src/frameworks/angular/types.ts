@@ -16,4 +16,5 @@ export interface NgStory {
   propsMeta?: ICollection;
   moduleMetadata?: NgModuleMetadata;
   template?: string;
+  ok?: string;
 }

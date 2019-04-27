@@ -17,4 +17,5 @@ export interface NgStory {
   moduleMetadata?: NgModuleMetadata;
   template?: string;
   ok?: string;
+  ok2?: string;
 }
